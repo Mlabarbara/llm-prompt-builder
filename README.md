@@ -1,4 +1,6 @@
-# llm-prompt-builder
+# This is a fork from yardimli
+
+## llm-prompt-builder
 LLM Prompt Builder - A NodeJS and PHP Tool to help query LLM's like ChatGPT and Claude for help with writing code.
 
 ### Screenshots
